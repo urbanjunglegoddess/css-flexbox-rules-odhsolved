@@ -38,8 +38,8 @@ This assignment should prove that a student is able to:
 
 - [x] Fork the project to your github account
 - [x] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] This Assignment is NOT tested. You can use all the desired creativity!
+- [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [x] This Assignment is NOT tested. You can use all the desired creativity!
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] The project's file/folder structure should NOT be edited!
 - [ ] The ecommerce-page.html file should NOT be edited!
