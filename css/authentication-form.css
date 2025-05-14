@@ -85,6 +85,7 @@ input[type="submit"]:hover {
 
 .form select {
   height: 30px;
+  width:100%;
 }
 
 .form-input-control, .form-checkbox-control, .form-radio-control {

@@ -71,7 +71,7 @@ Create the form HTML elements to imitate the mockup:
 - [x] Bolden label text when paired with a text or text-like input field.
 - [x] Avoid bold formatting for labels paired with checkboxes and radios.
 - [x] Utilize a paragraph element if the label element can't be used.
-- [ ] Ensure inputs span the full width available within the parent.
+- [x] Ensure inputs span the full width available within the parent.
 - [ ] Set the height of inputs with text-like values to 30px.
 - [ ] Set the height of dropdown elements to 30px.
 
