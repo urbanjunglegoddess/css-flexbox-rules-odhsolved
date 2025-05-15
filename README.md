@@ -123,9 +123,9 @@ For the "Sign Up Form"
   - [x] Should be a dropdown list with a default option "Select your city" selected by default and three options
     with random city names (Dallas, etc.).
   - [x] The default option should be unavailable to be selected.
-- [ ] The Gender single-option group
-  - [ ] Clicking the label should activate the corresponding radio button.
-  - [ ] The "Other" option should be active (enabled) by default.
+- [x] The Gender single-option group
+  - [x] Clicking the label should activate the corresponding radio button.
+  - [x] The "Other" option should be active (enabled) by default.
 - [ ] The "Sign in" button should submit the form to trigger field validation using the default browser mechanism.
 
 > E-commerce page
