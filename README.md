@@ -95,10 +95,10 @@ For the "Sign Up Form"
 - [x] The name input element
   - [x] Should require a value.
   - [x] Should include a placeholder.
-- [ ] The email input element
-  - [ ] Should require a value.
-  - [ ] The value should be validated as an email by the default browser mechanism.
-  - [ ] Should include a placeholder.
+- [x] The email input element
+  - [x] Should require a value.
+  - [x] The value should be validated as an email by the default browser mechanism.
+  - [x] Should include a placeholder.
 - [ ] The password input element
   - [ ] Should require a value.
   - [ ] The value should be validated to contain a minimum of 8 characters and a maximum of 20 by the default browser mechanism.
