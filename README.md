@@ -59,9 +59,9 @@ Acceptance criteria:
 - [ ] The layout should closely resemble the mockup.
 - [ ] Avoid using margin and float CSS rules to define distance/space between elements or their alignment.
 - [ ] Positioning (utilizing the position CSS property) is prohibited.
-- [ ] Edit the following files:
-  - [ ] html: `/pages/authentication-form.html`
-  - [ ] css: `/css/authentication-form.css`
+- [x] Edit the following files:
+  - [x] html: `/pages/authentication-form.html`
+  - [x] css: `/css/authentication-form.css`
 
 Create the form HTML elements to imitate the mockup:
 
