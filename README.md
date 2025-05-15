@@ -115,12 +115,14 @@ For the "Sign Up Form"
 - [x] The avatar input
   - [x] Should be represented by a "Choose file" button allowing the user to select a file from their computer when
     clicked.
-- [ ] The state dropdown list
-  - [ ] Should be a dropdown list with a default option "Select your state" selected by default and three options with random state names (Iowa, etc.).
-  - [ ] The default option should be unavailable to be selected.
-- [ ] The city dropdown list
-  - [ ] Should be a dropdown list with a default option "Select your city" selected by default and three options with random city names (Dallas, etc.).
-  - [ ] The default option should be unavailable to be selected.
+- [x] The state dropdown list
+  - [x] Should be a dropdown list with a default option "Select your state" selected by default and three options
+    with random state names (Iowa, etc.).
+  - [x] The default option should be unavailable to be selected.
+- [x] The city dropdown list
+  - [x] Should be a dropdown list with a default option "Select your city" selected by default and three options
+    with random city names (Dallas, etc.).
+  - [x] The default option should be unavailable to be selected.
 - [ ] The Gender single-option group
   - [ ] Clicking the label should activate the corresponding radio button.
   - [ ] The "Other" option should be active (enabled) by default.
