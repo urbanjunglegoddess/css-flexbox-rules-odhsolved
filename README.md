@@ -112,8 +112,9 @@ For the "Sign Up Form"
 - [x] The phone number input
   - [x] Should require a value
   - [x] The value should be validated to follow a template of telephone number strictly.
-- [ ] The avatar input
-  - [ ] Should be represented by a "Choose file" button allowing the user to select a file from their computer when clicked.
+- [x] The avatar input
+  - [x] Should be represented by a "Choose file" button allowing the user to select a file from their computer when
+    clicked.
 - [ ] The state dropdown list
   - [ ] Should be a dropdown list with a default option "Select your state" selected by default and three options with random state names (Iowa, etc.).
   - [ ] The default option should be unavailable to be selected.
