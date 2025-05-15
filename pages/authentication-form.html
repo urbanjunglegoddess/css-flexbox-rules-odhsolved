@@ -112,11 +112,13 @@
           <div class="form-input-control">
             <label for="phone">Phone number</label>
             <input
-              id="phone"
-              maxlength="12"
-              minlength="12"
-              placeholder="ex.: +12336456355"
-              type="tel"
+                    id="phone"
+                    maxlength="12"
+                    minlength="12"
+                    pattern="^\+[0-9]{11}$"
+                    placeholder="ex.: +12336456355"
+                    required
+                    type="tel"
             />
           </div>
           <div class="form-input-control">

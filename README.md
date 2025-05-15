@@ -99,17 +99,19 @@ For the "Sign Up Form"
   - [x] Should require a value.
   - [x] The value should be validated as an email by the default browser mechanism.
   - [x] Should include a placeholder.
-- [ ] The password input element
-  - [ ] Should require a value.
-  - [ ] The value should be validated to contain a minimum of 8 characters and a maximum of 20 by the default browser mechanism.
-  - [ ] Should hide symbols during typing.
-- [ ] The confirm password input element
-  - [ ] Should require a value.
-  - [ ] The value should be validated to contain a minimum of 8 characters and a maximum of 20 by the default browser mechanism.
-  - [ ] Should hide symbols during typing.
-- [ ] The phone number input
-  - [ ] Should require a value
-  - [ ] The value should be validated to follow a template of telephone number strictly.
+- [x] The password input element
+  - [x] Should require a value.
+  - [x] The value should be validated to contain a minimum of 8 characters and a maximum of 20 by the default
+    browser mechanism.
+  - [x] Should hide symbols during typing.
+- [x] The confirm password input element
+  - [x] Should require a value.
+  - [x] The value should be validated to contain a minimum of 8 characters and a maximum of 20 by the default
+    browser mechanism.
+  - [x] Should hide symbols during typing.
+- [x] The phone number input
+  - [x] Should require a value
+  - [x] The value should be validated to follow a template of telephone number strictly.
 - [ ] The avatar input
   - [ ] Should be represented by a "Choose file" button allowing the user to select a file from their computer when clicked.
 - [ ] The state dropdown list
