@@ -99,13 +99,15 @@ select {
   background-color: #fff;
 }
 
-.form-input-control, .form-checkbox-control, .form-radio-control {
-  display: flex;
-  flex-flow: row wrap;
-  gap: 6px;
-}
-
 .form-checkbox-control label,
 .form-radio-control label {
   font-weight: normal;
+}
+
+
+.form-submit-control {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
 }
