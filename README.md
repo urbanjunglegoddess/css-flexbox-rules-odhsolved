@@ -92,9 +92,9 @@ For the "Sign In form":
 
 For the "Sign Up Form"
 
-- [ ] The name input element
-  - [ ] Should require a value.
-  - [ ] Should include a placeholder.
+- [x] The name input element
+  - [x] Should require a value.
+  - [x] Should include a placeholder.
 - [ ] The email input element
   - [ ] Should require a value.
   - [ ] The value should be validated as an email by the default browser mechanism.
