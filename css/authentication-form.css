@@ -88,6 +88,13 @@ input[type="submit"]:hover {
   width:100%;
 }
 
+select {
+  border: 1px solid #a9a9a9;
+  border-radius: 4px;
+  padding: 5px;
+  background-color: #fff;
+}
+
 .form-input-control, .form-checkbox-control, .form-radio-control {
   display: flex;
   flex-flow: row wrap;
