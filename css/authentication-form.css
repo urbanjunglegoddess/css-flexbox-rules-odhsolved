@@ -35,6 +35,7 @@ form {
   gap: 30px;
 }
 
+
 .subtext {
   color: #a9a9a9;
   font-weight: unset;
@@ -44,6 +45,9 @@ form {
 #sign-up {
   flex: 1;
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
 a {
@@ -105,9 +109,26 @@ select {
 }
 
 
+.form-group-horizontal-control {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.form-input-control {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 100%;
+}
+
+
+
 .form-submit-control {
   display: flex;
   justify-content: center;
   gap: 20px;
   align-items: center;
 }
+
+
