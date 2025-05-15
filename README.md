@@ -56,7 +56,7 @@ You'll discover certain styles existing in the initial state of the CSS files. T
 
 Acceptance criteria:
 
-- [ ] The layout should closely resemble the mockup.
+- [x] The layout should closely resemble the mockup.
 - [ ] Avoid using margin and float CSS rules to define distance/space between elements or their alignment.
 - [ ] Positioning (utilizing the position CSS property) is prohibited.
 - [x] Edit the following files:
