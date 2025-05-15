@@ -126,7 +126,7 @@ For the "Sign Up Form"
 - [x] The Gender single-option group
   - [x] Clicking the label should activate the corresponding radio button.
   - [x] The "Other" option should be active (enabled) by default.
-- [ ] The "Sign in" button should submit the form to trigger field validation using the default browser mechanism.
+- [x] The "Sign in" button should submit the form to trigger field validation using the default browser mechanism.
 
 > E-commerce page
 
