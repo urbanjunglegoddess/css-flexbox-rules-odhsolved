@@ -58,7 +58,7 @@ Acceptance criteria:
 
 - [x] The layout should closely resemble the mockup.
 - [x] Avoid using margin and float CSS rules to define distance/space between elements or their alignment.
-- [ ] Positioning (utilizing the position CSS property) is prohibited.
+- [x] Positioning (utilizing the position CSS property) is prohibited.
 - [x] Edit the following files:
   - [x] html: `/pages/authentication-form.html`
   - [x] css: `/css/authentication-form.css`
