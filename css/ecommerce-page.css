@@ -133,6 +133,10 @@ section {
 }
 
 .view-options {
+  display: flex;
+  justify-content: flex-end;
+  gap: 15px;
+
 }
 
 i.fa-th-list {
@@ -142,6 +146,9 @@ i.fa-th-list {
 .section-control {
   padding-bottom: 20px;
   border-bottom: 1px solid #8d8ba5;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
 }
 
 .section-control .view-option {
