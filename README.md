@@ -138,7 +138,7 @@ Acceptance criteria:
 - [x] Refrain from using the margin CSS rule to specify distances between elements.
 - [x] Positioning is prohibited.
 - [x] When switching between views, display a different product list view.
-- [ ] The HTML file should remain unchanged; no updates or modifications are allowed.
+- [x] The HTML file should remain unchanged; no updates or modifications are allowed.
 - [ ] The permitted list of CSS rules to add to the styles file is as follows:
   - `border-*`
   - `padding-*`
