@@ -139,7 +139,7 @@ Acceptance criteria:
 - [x] Positioning is prohibited.
 - [x] When switching between views, display a different product list view.
 - [x] The HTML file should remain unchanged; no updates or modifications are allowed.
-- [ ] The permitted list of CSS rules to add to the styles file is as follows:
+- [x] The permitted list of CSS rules to add to the styles file is as follows:
   - `border-*`
   - `padding-*`
   - width
