@@ -132,9 +132,9 @@ For the "Sign Up Form"
 
 Acceptance criteria:
 
-- [ ] Edit the following files:
-  - [ ] css: `/css/ecommerce-page.css`
-- [ ] Ensure the layout closely mirrors the mockup.
+- [x] Edit the following files:
+  - [x] css: `/css/ecommerce-page.css`
+- [x] Ensure the layout closely mirrors the mockup.
 - [ ] Refrain from using the margin CSS rule to specify distances between elements.
 - [ ] Positioning is prohibited.
 - [ ] When switching between views, display a different product list view.
