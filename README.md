@@ -136,7 +136,7 @@ Acceptance criteria:
   - [x] css: `/css/ecommerce-page.css`
 - [x] Ensure the layout closely mirrors the mockup.
 - [x] Refrain from using the margin CSS rule to specify distances between elements.
-- [ ] Positioning is prohibited.
+- [x] Positioning is prohibited.
 - [ ] When switching between views, display a different product list view.
 - [ ] The HTML file should remain unchanged; no updates or modifications are allowed.
 - [ ] The permitted list of CSS rules to add to the styles file is as follows:
