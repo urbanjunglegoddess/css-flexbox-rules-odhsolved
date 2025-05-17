@@ -46,8 +46,8 @@ This assignment should prove that a student is able to:
 - [x] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web
   validator" VSCode extension or the "Online w3c Markup Validation Service")
 - [x] The code MUST be formatted with Prettier.
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a .txt file with the Github repo url.
+- [x] Push the changes to the Github repo, when finished.
+- [x] Submit a .txt file with the Github repo url.
 
 You'll discover certain styles existing in the initial state of the CSS files. They're present for a purpose, but it's your call to determine whether you want to utilize them, remove them, or create some.
 
