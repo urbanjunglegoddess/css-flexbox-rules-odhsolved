@@ -257,10 +257,16 @@ i.fa-th-list {
 /* LINE VIEW STYLES */
 
 .lines.products {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
 }
 
 .lines .product {
   padding: 20px;
+  margin: 10px 0;
+  display: flex;
+  
 }
 
 .lines .product-image-wrapper {
@@ -269,12 +275,26 @@ i.fa-th-list {
 }
 
 .lines .product-data {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  gap: 20px;
 }
 
 .lines .product-info {
+  text-align: left;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  flex: 1;
 }
 
 .lines .product-action {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 /* LINES-ACTION VIEW */
