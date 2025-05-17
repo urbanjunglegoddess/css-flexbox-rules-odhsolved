@@ -211,11 +211,18 @@ i.fa-th-list {
 /* GRID VIEW STYLES */
 
 .grid.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 30px;
 }
 
 .grid .product {
   width: 300px;
-  padding-bottom: 30px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 0;
 }
 
 .grid .product-image-wrapper {
@@ -223,17 +230,29 @@ i.fa-th-list {
 }
 
 .grid .product-data {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   height: 100%;
 }
 
 .grid .product-info {
   text-align: center;
-  padding: 0 20px 30px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex: 1;
 }
 
 .grid .product-action {
-  padding-top: 30px;
+  padding-top: 20px;
   border-top: 1px solid #8d8ba5;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80px;
+  width: 100%;
 }
 
 /* LINE VIEW STYLES */
